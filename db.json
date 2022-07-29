@@ -1,0 +1,84 @@
+{
+"products":
+[
+  "id": 1,
+  "name": "Chrysler",
+  "color": "Puce"
+}, {
+  "id": 2,
+  "name": "Acura",
+  "color": "Green"
+}, {
+  "id": 3,
+  "name": "BMW",
+  "color": "Indigo"
+}, {
+  "id": 4,
+  "name": "Toyota",
+  "color": "Mauv"
+}, {
+  "id": 5,
+  "name": "Lincoln",
+  "color": "Fuscia"
+}, {
+  "id": 6,
+  "name": "Volvo",
+  "color": "Green"
+}, {
+  "id": 7,
+  "name": "Infiniti",
+  "color": "Orange"
+}, {
+  "id": 8,
+  "name": "Honda",
+  "color": "Violet"
+}, {
+  "id": 9,
+  "name": "MINI",
+  "color": "Fuscia"
+}, {
+  "id": 10,
+  "name": "Honda",
+  "color": "Pink"
+}, {
+  "id": 11,
+  "name": "Toyota",
+  "color": "Khaki"
+}, {
+  "id": 12,
+  "name": "Audi",
+  "color": "Puce"
+}, {
+  "id": 13,
+  "name": "Mercury",
+  "color": "Aquamarine"
+}, {
+  "id": 14,
+  "name": "Honda",
+  "color": "Yellow"
+}, {
+  "id": 15,
+  "name": "Suzuki",
+  "color": "Maroon"
+}, {
+  "id": 16,
+  "name": "Volkswagen",
+  "color": "Maroon"
+}, {
+  "id": 17,
+  "name": "Ford",
+  "color": "Indigo"
+}, {
+  "id": 18,
+  "name": "Subaru",
+  "color": "Pink"
+}, {
+  "id": 19,
+  "name": "Mercedes-Benz",
+  "color": "Pink"
+}, {
+  "id": 20,
+  "name": "Chevrolet",
+  "color": "Maroon"
+  ]
+}
